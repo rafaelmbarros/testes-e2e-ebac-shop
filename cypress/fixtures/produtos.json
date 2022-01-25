@@ -1,0 +1,10 @@
+[
+  { "produto": "Ariel Roll Sleeve Sweatshirt", "tamanho": "M", "cor": "Green" },
+  {
+    "produto": "Ariel Roll Sleeve Sweatshirt",
+    "tamanho": "XS",
+    "cor": "Green"
+  },
+  { "produto": "Ariel Roll Sleeve Sweatshirt", "tamanho": "S", "cor": "Green" },
+  { "produto": "Ariel Roll Sleeve Sweatshirt", "tamanho": "L", "cor": "Green" }
+]
